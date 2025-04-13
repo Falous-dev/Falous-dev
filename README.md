@@ -33,7 +33,7 @@ _J'espère que mes travaux pourront motiver d'autres passionnés qui débutent �
 Des conseils ? Des idées à partager ?  
 📫 Retrouvez-moi aussi sur mon site :  
 
-[![Mon Site](https://img.shields.io/badge/Mon_Site-Explorer-blue)](https://tonsite.com)  
+[![Mon Site](https://img.shields.io/badge/Mon_Site-Explorer-blue)](https://falous344.fr)  
 
 ---
 
