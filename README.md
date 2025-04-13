@@ -1,29 +1,46 @@
-# Bonjour ! 👋 Moi, c'est Falous
+# 👋 Bonjour ! Moi, c'est **Falous**
 
-Bienvenue sur mon GitHub ! Je suis un développeur amateur passionné par la technologie, le codage, et l'exploration de nouvelles idées.  
-Je me considère comme un apprenant perpétuel qui aime relever des défis et créer des projets, même simples, pour affiner mes compétences.
-
----
-
-## Qui suis-je ? 🤔
-
-- 🎓 développement web et logiciel (debutant) .
-- 🔧 En cours d'apprentissage de [ JavaScript, HTML/CSS, Python].
-
+Bienvenue sur mon GitHub !  
+Je suis un **développeur amateur** qui commence tout juste à explorer le monde du codage et de la technologie. 🚀  
+💡 _Je connais peu de choses pour l'instant, mais chaque petit projet est une opportunité d'apprendre et de progresser._
 
 ---
 
-## Ce que vous trouverez ici 🗂️
+## 🧑‍💻 **Qui suis-je ?**
 
-Sur ce GitHub, je partage mes projets, mes essais, et mes petites réussites en tant que développeur amateur. Certains projets sont encore en développement (on apprend toujours, pas vrai ?), et d'autres sont des tentatives expérimentales. J'espère que mes travaux pourront inspirer ou aider ceux qui débutent comme moi.
+- 🎓 **Débutant** en développement web et logiciel.  
+- 🔍 Actuellement en train d'apprendre les bases de :  
+  🟡 **JavaScript** | 🟠 **HTML/CSS** | 🔵 **Python**  
 
----
-
-## 💬 Me contacter
-
-Vous avez des idées ou des conseils à partager ? Vous pouvez me joindre sur mon discord.  
-Je serais ravi de discuter avec d'autres passionnés et d'apprendre de nouvelles perspectives !
+Je suis toujours curieux et prêt à relever des défis pour améliorer mes compétences, petit à petit !
 
 ---
 
-Merci d'avoir pris le temps de me découvrir ici. N'hésitez pas à explorer mes projets et à laisser une étoile si vous trouvez quelque chose d'intéressant. 🌟
+## 📂 **Ce que vous trouverez ici**
+
+Sur ce GitHub, vous trouverez mes projets :  
+- 🌱 _Expériences pour comprendre les bases du codage._  
+- 🛠️ _Petites créations réalisées avec beaucoup d'efforts !_  
+- 🎯 _Des essais en cours de développement._
+
+✨ **Pas parfait**, mais chaque ligne de code me rapproche d'être un meilleur développeur.  
+_J'espère que mes travaux pourront motiver d'autres passionnés qui débutent également comme moi._
+
+---
+
+## 💬 **Me contacter**
+
+Des conseils ? Des idées à partager ?  
+📫 Retrouvez-moi aussi sur mon site :  
+
+[![Mon Site](https://img.shields.io/badge/Mon_Site-Explorer-blue)](https://tonsite.com)  
+
+---
+
+## 🌟 **Merci de votre visite !**
+
+Merci de m'encourager dans mon parcours !  
+🔗 **Explorez mes projets et laissez une étoile ⭐ si quelque chose vous inspire.**
+
+> _Le voyage ne fait que commencer, et chaque soutien compte._ 🙌  
+---
