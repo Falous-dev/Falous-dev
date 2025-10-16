@@ -1,8 +1,7 @@
-# 👋 Bonjour ! Moi, c'est **Falous**
+# Bonjour ! Moi, c'est **Falous**
 
 Bienvenue sur mon GitHub !  
 Je suis un **développeur amateur** qui commence tout juste à explorer le monde du codage et de la technologie. 🚀  
-💡 _Je connais peu de choses pour l'instant, mais chaque petit projet est une opportunité d'apprendre et de progresser._
 
 ---
 
@@ -11,8 +10,6 @@ Je suis un **développeur amateur** qui commence tout juste à explorer le monde
 - 🎓 **Débutant** en développement web et logiciel.  
 - 🔍 Actuellement en train d'apprendre les bases de :  
   🟡 **JavaScript** | 🟠 **HTML/CSS** | 🔵 **Python**  
-
-Je suis toujours curieux et prêt à relever des défis pour améliorer mes compétences, petit à petit !
 
 ---
 
