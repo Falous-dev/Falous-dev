@@ -1,43 +1,75 @@
-# Bonjour ! Moi, c'est **Falous**
+# 🚀 Bonjour, moi c’est **Falous**
 
 Bienvenue sur mon GitHub !  
-Je suis un **développeur amateur** qui commence tout juste à explorer le monde du codage et de la technologie. 🚀  
+Je suis un **développeur amateur** passionné qui découvre petit à petit l’univers du code et de la technologie.  
+Chaque jour, j’apprends, j’expérimente et je construis. ✨
 
 ---
 
-## 🧑‍💻 **Qui suis-je ?**
+# 🧑‍💻 À propos de moi
 
-- 🎓 **Débutant** en développement web et logiciel.  
-- 🔍 Actuellement en train d'apprendre les bases de :  
-  🟡 **JavaScript** | 🟠 **HTML/CSS** | 🔵 **Python**  
-
----
-
-## 📂 **Ce que vous trouverez ici**
-
-Sur ce GitHub, vous trouverez mes projets :  
-- 🌱 _Expériences pour comprendre les bases du codage._  
-- 🛠️ _Petites créations réalisées avec beaucoup d'efforts !_  
-- 🎯 _Des essais en cours de développement._
-
-✨ **Pas parfait**, mais chaque ligne de code me rapproche d'être un meilleur développeur.  
-_J'espère que mes travaux pourront motiver d'autres passionnés qui débutent également comme moi._
+- 🎓 Débutant motivé en développement web & logiciel  
+- 📚 J’apprends actuellement :  
+  - 🟡 **JavaScript**  
+  - 🟠 **HTML / CSS**  
+  - 🔵 **Python**  
+- 🎯 Objectif : progresser un peu plus chaque jour et partager mes projets
 
 ---
 
-## 💬 **Me contacter**
+# 📊 Statistiques GitHub
 
-Des conseils ? Des idées à partager ?  
-📫 Retrouvez-moi aussi sur mon site :  
+<div align="center">
 
-[![Mon Site](https://img.shields.io/badge/Mon_Site-Explorer-blue)](https://falous344.fr)  
+### 🔥 Activité & Contributions  
+<img src="https://streak-stats.demolab.com/?user=Falous-dev&theme=tokyonight&hide_border=true" />
+
+### 📈 Stats générales  
+<img src="https://github-readme-stats.vercel.app/api?username=Falous-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+
+### 🧠 Langages les plus utilisés  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falous-dev&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🌟 **Merci de votre visite !**
+# 📂 Ce que tu trouveras ici
 
-Merci de m'encourager dans mon parcours !  
-🔗 **Explorez mes projets et laissez une étoile ⭐ si quelque chose vous inspire.**
+- 🌱 Projets simples pour apprendre les bases  
+- 🛠️ Expériences, tests, prototypes  
+- 🚧 Travaux en cours d’amélioration  
+- 💡 Idées en construction  
 
-> _Le voyage ne fait que commencer, et chaque soutien compte._ 🙌  
+> Chaque ligne de code est un pas vers un meilleur développeur.
+
 ---
+
+# 🛠️ Technologies & Outils
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+# 💬 Me contacter
+
+📫 Mon site :  
+👉 https://falous344.fr
+
+---
+
+# 🌟 Merci de ta visite !
+
+Merci pour ton soutien 🙌  
+N’hésite pas à explorer mes projets et à laisser une ⭐ si quelque chose t’inspire.
+
+> _Le voyage ne fait que commencer._
