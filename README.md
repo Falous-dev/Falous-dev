@@ -1,12 +1,11 @@
-# 🚀 Bonjour, moi c’est **Falous**
+# Bonjour, je suis **Falous** et j'ai 15 ans
 
 Bienvenue sur mon GitHub !  
 Je suis un **développeur amateur** passionné qui découvre petit à petit l’univers du code et de la technologie.  
-Chaque jour, j’apprends, j’expérimente et je construis. ✨
 
----
 
-# 🧑‍💻 À propos de moi
+
+# À propos de moi
 
 - 🎓 Débutant motivé en développement web & logiciel  
 - 📚 J’apprends actuellement :  
@@ -15,7 +14,6 @@ Chaque jour, j’apprends, j’expérimente et je construis. ✨
   - 🔵 **Python**  
 - 🎯 Objectif : progresser un peu plus chaque jour et partager mes projets
 
----
 
 # 📊 Statistiques GitHub
 
@@ -32,7 +30,7 @@ Chaque jour, j’apprends, j’expérimente et je construis. ✨
 
 </div>
 
----
+
 
 # 📂 Ce que tu trouveras ici
 
@@ -41,9 +39,6 @@ Chaque jour, j’apprends, j’expérimente et je construis. ✨
 - 🚧 Travaux en cours d’amélioration  
 - 💡 Idées en construction  
 
-> Chaque ligne de code est un pas vers un meilleur développeur.
-
----
 
 # 🛠️ Technologies & Outils
 
