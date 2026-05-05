@@ -1,8 +1,8 @@
-# Bonjour, je suis **Falous** et j'ai 15 ans
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Archivo+Black&pause=1000&color=00FFF0&center=true&width=435&lines=Bienvenue+sur+mon+GitHub++%F0%9F%87%AB%F0%9F%87%B7+;Je+suis+falous-dev)](https://git.io/typing-svg)
 
-Bienvenue sur mon GitHub !  
-Je suis un **développeur amateur** passionné qui découvre petit à petit l’univers du code et de la technologie.  
+---
 
+ I'm **Falous-dev** amateur developer  🇫🇷 
 
 
 # À propos de moi
